@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    text-align: center;
+    margin-left: 200px;
+}
+button{
+    cursor: pointer;
+    margin-top:200px;
+    justify-content: center;
+    align-items: center;
+    margin-right: 300px;
+    
+}
+button:hover{
+    background-color: rgba(7, 133, 66, 0.561);
+}
